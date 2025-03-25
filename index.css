@@ -1,0 +1,35 @@
+* {
+  font-family: Arial, sans-serif; /* Escolhe uma fonte legível */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+h1 {
+  color: #fff;
+  background-color: black;
+  padding: 80px;
+}
+
+p {
+  color: #fff;
+  font-size: 25px;
+  padding: 60px;
+}
+button{
+    color: #fff;
+    background-color:#2d89f4;
+}
+.input-button {
+  border-radius: 20px ;
+  
+  padding: 10px; /* Adiciona um espaço interno aos elementos */
+  font-size: 30px; /* Aumenta o tamanho da fonte para tornar mais legível */
+  margin: 10px; /* Adiciona um espaço entre os elementos */
+}
+.banner {
+  padding:70px;
+  background-image: url("/img/numeros-de-queda-digitais-do-codigo-binario-do-estilo-da-matriz-fundo-azul_1017-37387.avif");
+  height: 100vh;
+}
